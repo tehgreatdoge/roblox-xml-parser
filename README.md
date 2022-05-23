@@ -1,5 +1,5 @@
 # NOTICE: THIS IS AN ARCHIVE OF A REMOVED NPM MODULE
-I reuploaded it to a github repo as there was no equivalent tool out there
+I reuploaded it to a github repo as there was no equivalent tool out there, and I was quite in love with the format of it.
 
 # roblox-xml-parser
 
