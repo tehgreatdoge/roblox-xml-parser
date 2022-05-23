@@ -1,5 +1,6 @@
 # NOTICE: THIS IS AN ARCHIVE OF A REMOVED NPM MODULE
-I reuploaded it to a github repo as there was no equivalent tool out there, and I was quite in love with the format of it.
+I reuploaded it to a github repo as there was no equivalent tool out there, and I was quite in love with the interface of it.
+My best guess as to why it was removed is due to the roblox user who uploaded the library being an exploiter and they may have uploaded roblox hacks to npm and then roblox sent takedown requests
 
 # roblox-xml-parser
 
